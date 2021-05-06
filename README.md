@@ -1,4 +1,4 @@
-##Github Pages
+# Github Pages
 
 I came to know about github pages from  my friend [Samcodee](https://github.com/samcodee), he has some amzing repos, go check him out
 
