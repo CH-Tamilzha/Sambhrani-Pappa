@@ -8,6 +8,6 @@ For more details go to [Mastering Markdown by github Guides](https://guides.gith
 
 Overall, github pages is just amazing!
 
-Oh! By the way, the very code(README file, not code, silly me) you are reading right now is hosted using github pages, click [here](https://ch-tamilzha.github.io/Github-Pages/) 
+Oh! By the way, the very code(README file, not code, silly me) you are reading right now is hosted using github pages, click [here](https://ch-tamilzha.github.io/Github-Pages/) (If you are seeing this from my website please kindly ignore this)
 
 Buh Bye.
