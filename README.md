@@ -4,10 +4,10 @@ I came to know about github pages from  my friend [Samcodee](https://github.com/
 
 You can use it to host your website online using github.
 
-For more details go to [Mastering Markdown by github Guides](https://guides.github.com/features/mastering-markdown/)
+For more details go to [Github Pages](https://pages.github.com)
 
 Overall, github pages is just amazing!
 
-Oh! By the way, the very code(README file, not code, silly me) you are reading right now is hosted using github pages, click [here](https://ch-tamilzha.github.io/Github-Pages/) (If you are seeing this from my website please kindly ignore this)
+Oh! By the way, the very code(README file/text, not code, silly me) you are reading right now is hosted using github pages, click [here](https://ch-tamilzha.github.io/Github-Pages/) (If you are seeing this from my website please kindly ignore this)
 
 Buh Bye.
