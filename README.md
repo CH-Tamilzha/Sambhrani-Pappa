@@ -4,7 +4,7 @@ I came to know about github pages from  my friend [Samcodee](https://github.com/
 
 You can use it to host your website online using github.
 
-For more details go to [Github Pages](https://pages.github.com)
+For more details go to [Github Pages's Oficial Doccumentation](https://pages.github.com)
 
 Overall, github pages is just amazing!
 
