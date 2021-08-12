@@ -11,6 +11,3 @@ Overall, Github Pages is just amazing!
 Oh! By the way, the very code (README file/text, not code, silly me) you are reading right now is hosted using Github Pages, visit [https://ch-tamilzha.github.io/Github-Pages/](https://ch-tamilzha.github.io/Github-Pages/) to view the hosted site. (If you are seeing this from my website please kindly ignore this)
 
 Buh Bye!
-
-[<img src="GitHub_Logo.png" alt="Github Logo" height="50" width="auto"/>](https://github.com)
-[<img src="GitHub-Mark.png" alt="Github Octocat Logo" height="50px" width="auto"/>](https://github.com)
