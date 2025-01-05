@@ -8,6 +8,6 @@ For more details visit [Github Pages's Official Documentation](https://pages.git
 
 Overall, Github Pages is just amazing!
 
-Oh! By the way, the very code (README file/text, not code, silly me) you are reading right now is hosted using Github Pages! [Click here to visit.](https://electricthoughts.github.io/Github-Pages/) to view the hosted site. (If you are seeing this from my website please kindly ignore this)
+Oh! By the way, the very code (README file/text, not code, silly me) you are reading right now is hosted using Github Pages! [Click here to visit](https://electricthoughts.github.io/Github-Pages/) (If you are seeing this from my website please kindly ignore this).
 
 Buh Bye!
